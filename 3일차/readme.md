@@ -83,6 +83,7 @@ END
 •	제목: 측정값 선택 매개변수 삽입
 
 ---
+<img width="1211" alt="스크린샷 2025-04-22 오후 5 57 01" src="https://github.com/user-attachments/assets/b82774a5-5b9b-4d8a-a108-270ca242fcbb" />
 
 **2️⃣ 매개변수로 X/Y축 변경**
 
@@ -131,6 +132,7 @@ END
 •	분석 탭: 평균 라인 추가
 
 ---
+<img width="1198" alt="스크린샷 2025-04-22 오후 6 12 24" src="https://github.com/user-attachments/assets/616877ed-65a4-4cfd-af34-3723f3e9a800" />
 
 **3️⃣ 대시보드 동작 설정**
 
@@ -153,6 +155,7 @@ END
 •	하이라이트 기준: 카테고리
 
 ---
+<img width="1206" alt="스크린샷 2025-04-22 오후 6 15 34" src="https://github.com/user-attachments/assets/bfab0779-f12f-4e5e-8969-348c50cc5e8a" />
 
 **🧠 오늘의 개념 요약**
 
